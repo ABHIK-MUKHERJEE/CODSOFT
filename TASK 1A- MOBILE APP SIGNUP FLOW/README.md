@@ -6,12 +6,12 @@ This task includes a complete mobile signup flow.
 
 #### Screens Included:
 - Welcome Back (Login)
--Login Error
--Sign Up
--Sign Up Validation Error
--OTP Verification
--OTP Error State
--Success Screen
+- Login Error
+- Sign Up
+- Sign Up Validation Error
+- OTP Verification
+- OTP Error State
+- Success Screen
 
 ##### Features:
 - Form validation handling

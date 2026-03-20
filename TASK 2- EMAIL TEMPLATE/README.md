@@ -1,16 +1,18 @@
-Task 2 – Email Template (Responsive Design)
+# CODSOFT
+## INTERNSHIP TASKS FOR CODSOFT
+### TASK 2 - EMAIL TEMPLATE, EASY AND QUICK FOR BUSINESSES TO SEND OUT EMAILS THAT LOOKS PROFESSIONAL.
 Designed a responsive email template for a tech brand using Figma.
 
-Includes:
-Desktop version
-Mobile version (stacked layout)
+#### INCLUDES:
+-Desktop version
+-Mobile version (stacked layout)
 
-Features:
-Clean and minimal design
-Clear call-to-action
-Feature section with icons
-Responsive layout adaptation
-Footer with unsubscribe option
+##### FEATURES:
+-Clean and minimal design
+-Clear call-to-action
+-Feature section with icons
+-Responsive layout adaptation
+-Footer with unsubscribe option
 
-Tool Used:
-Figma
+###### TOOL USED:
+-Figma
